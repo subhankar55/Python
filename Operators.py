@@ -4,6 +4,7 @@ print(a + b)
 print(a - b)
 print(a * b)
 print(a / b) # in python division operator always give float value
+print(a // b) # this gives the int value
 print(a % b) # remainder
 print(a ** b) #power operator
 
