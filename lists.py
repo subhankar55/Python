@@ -1,5 +1,6 @@
 marks = [89,90,34,67,"Math"]
 
+# we can declare an empty list by 'names = []'
 print(marks)
 
 print(marks[1])
